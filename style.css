@@ -237,7 +237,7 @@ body, html {
   margin-top: 5px;
 }
 
-.R01Cname::after, .R02Cname::after, .R03Cname::after, .R05Cname::after {
+.R01Cname::after, .R02Cname::after, .R03Cname::after {
   content: "";
   display: inline-block;
   width: 8%;
